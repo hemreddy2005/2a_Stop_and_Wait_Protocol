@@ -27,7 +27,7 @@ while True:
    break
 ~~~
 ## OUTPUT
-![Pic 1](https://github.com/hemreddy2005/2a_Stop_and_Wait_Protocol/assets/145633111/a5b1e3f5-9070-4f55-93cf-bcf264513d20)
-![Pic 2](https://github.com/hemreddy2005/2a_Stop_and_Wait_Protocol/assets/145633111/cdbf6a6b-9eb9-4766-89f2-14aba1e57f84)
+![Client](https://github.com/hemreddy2005/2a_Stop_and_Wait_Protocol/assets/145633111/b3f7fc04-9ce8-4cd4-bd2e-c48f236a20c3)
+![Server](https://github.com/hemreddy2005/2a_Stop_and_Wait_Protocol/assets/145633111/db3d3468-6fff-4fa2-908b-b4b75ffa4b5d)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
